@@ -1,1 +1,5 @@
-{}
+{
+  "projects": {
+    "emulator": "emulator-project-id"
+  }
+}
